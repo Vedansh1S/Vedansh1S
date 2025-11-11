@@ -19,26 +19,18 @@ Constantly exploring new technologies, learning the intricacies of AI, and refin
 - Interested in cloud infrastructure, AI/ML integration, and DevOps workflows.  
 - Committed to writing efficient, readable, and well-tested code.  
 - Always exploring better ways to build, automate, and scale applications.  
-- Believer in learning through creating.
 - *"Code. Learn. Build. Repeat."*
 
 ---
+## **Current Focus**
 
-## **What I’m Currently Working On**
-
-- Building dynamic web projects with **React**, **Next.js**, and **Tailwind CSS**  
-- Exploring **AWS**, **Docker**, and **CI/CD pipelines** for scalable deployments  
-- Experimenting with **AI models** and **LLM integrations** in full-stack apps  
-
----
-
-## **What I’m Learning**
-
-- **System Design** & **Scalable Architecture**  
-- **Collaborative Development** with Git workflows  
-- **DevOps fundamentals** (Docker, Kubernetes, CI/CD)  
-- **Prompt Engineering & AI Integration** in web apps  
-
+- Building dynamic, scalable web applications using React, Next.js, and Tailwind CSS.
+- Developing backend systems with a focus on clean architecture and maintainability.
+- Working with Docker and AWS to design efficient, containerized, and cloud-ready deployments.
+- Setting up CI/CD pipelines to automate testing, integration, and deployment workflows.
+- Exploring System Design concepts and scalable architecture for high-performance applications.
+- Strengthening DevOps skills with Kubernetes, monitoring tools, and continuous delivery practices.
+- Experimenting with AI integration in web applications and learning prompt engineering to enhance app intelligence and interactivity.
 ---
 
 ## **Tech Toolbox**
