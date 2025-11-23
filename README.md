@@ -37,7 +37,7 @@ Constantly exploring new technologies, learning the intricacies of AI, and refin
 
 ### **Languages**
 
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,javascript,html,css," height="45" />
 </p>
 
 ### **Frameworks & Libraries**
