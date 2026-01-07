@@ -42,7 +42,7 @@ Constantly exploring new technologies, learning the intricacies of AI, and refin
 
 ### **Frameworks & Libraries**
 
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma,tailwind" height="45" />
 </p>
 
 ### **Databases**
